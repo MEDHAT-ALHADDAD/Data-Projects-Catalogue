@@ -16,6 +16,8 @@
 
 - [Analyzing-Industry-Carbon-Emissions](https://github.com/MEDHAT-ALHADDAD/Analyzing-Industry-Carbon-Emissions/blob/main/notebook.ipynb):
 
+- [creating_bins and Percentiles](https://gist.github.com/MEDHAT-ALHADDAD/beb4fbcd2a536d5488f96573315393b0) [Gist]: Different useful SQL Scripts [Table Recode, Creating Bins and Percentiles, and DateTime Helper queries]
+
 ---
 ### PYTHON PROJECTS:
 - [Predicting-Credit-Card-Approvals](https://github.com/MEDHAT-ALHADDAD/Predicting-Credit-Card-Approvals)(2023):Achieved 98% Accuracy with LOGREG Classifier, MinMaxScaler 
@@ -42,6 +44,10 @@
 
 - [Twitter-Sentiment-Analysis](https://github.com/MEDHAT-ALHADDAD/Twitter-Sentiment-Analysis) (2020): Analyzed Twitter data to discover top hashtags and identify the most positive US states using AFINN lexicon
 
+- [recommender.py](https://gist.github.com/MEDHAT-ALHADDAD/0d673b9bcc6695b2e4b5e3195c1bb63f) [Gist]: Music artists Recommendition module using NMF and Cosine Similarity
+
+- [emp_state_60_steps_odds.py](https://gist.github.com/MEDHAT-ALHADDAD/113cbc1ed7bf04f2d23cbf03f470d3d4) [Gist]: What are the odds that you'll reach 60 steps high on the Empire State Building? (Hacker Stats!) XD:)
+
 ---
 ### R PROJECTS:
 - [seattle-crime-visualization_using-R](https://github.com/MEDHAT-ALHADDAD/seattle-crime-visualization_using-R):
@@ -53,6 +59,8 @@
 - [HR Attrition Metrics]() (2022): Created a PBI report for HR metrics insights and analyzed attrition causes
 
 - [Power-BI_Reports](https://github.com/MEDHAT-ALHADDAD/Power-BI_Reports): --needs refactoring
+
+- [DimDate.pbix](https://gist.github.com/MEDHAT-ALHADDAD/3350eabecb63a28380cf509f3c9a2b64) [Gist]: Dax Code to create Dimensional Date Table
 
 ---
 ### CLOUD PROJECTS:
@@ -68,7 +76,15 @@
 
 ---
 ### WEB AND MOBILE PROJECTS:
--
+- [blackJack.js](https://gist.github.com/MEDHAT-ALHADDAD/04dd3463fcc18be6850a50b25280bf03) [Gist]: A BlackJack Game with multiple players using Pure Functional JavaScript
+
+- [lazyloader.js](https://gist.github.com/MEDHAT-ALHADDAD/46d8840fa5d4908b13112e022c2d311a) [Gist]: performance observers for web util. // add <script src="/assets/js/util/perf.js"></script> for index.html(root) to work
+
+- [lodash.js](https://gist.github.com/MEDHAT-ALHADDAD/9a71925a43387fb8efb1e1435da01c51) [Gist]: My Implementation of some of the lodash lib
+
+- [debounce.js](https://gist.github.com/MEDHAT-ALHADDAD/e29282712aa4212b60d057573093809d) [Gist]: My Implementation of the Debounce Function
+
+- [calc.js](https://gist.github.com/MEDHAT-ALHADDAD/4915462d9a070765743f78f62b96d9e4) [Gist]: A Basic Calculator in [DHTML](https://en.wikipedia.org/wiki/Dynamic_HTML)
 
 ---
 ### EMBEDDED SYSTEMS PROJECTS:
