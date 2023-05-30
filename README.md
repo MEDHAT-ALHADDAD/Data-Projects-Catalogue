@@ -1,4 +1,7 @@
 ## This is a Catalogue of all my related Data projects and others
+
+![background_image](./screen.webp)
+
 ---
 ### SQL PROJECTS:
 - [Case Study #1 - Danny's Diner](https://github.com/MEDHAT-ALHADDAD/Dannys-Diner):
