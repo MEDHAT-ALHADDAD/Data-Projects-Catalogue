@@ -54,6 +54,7 @@
 
 ---
 ### POWER BI PROJECTS:
+- [Global Terrorism: Exploratory Data Analysis and Dashboarding](https://github.com/MEDHAT-ALHADDAD/Global-Terrorism---Exploratory-Data-Analysis-and-Dashboarding) (2023): As a security/defense analyst, we will try to find hot zone of terrorism across the world.
 - [Data Science Job Market Insights]() (2023): Conducted in-depth analysis of the market using Power BI
 
 - [HR Attrition Metrics]() (2022): Created a PBI report for HR metrics insights and analyzed attrition causes
