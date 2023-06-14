@@ -1,7 +1,11 @@
 ## This is a Catalogue of all my related Data projects and others
 
 ![background_image](./screen.webp)
-
+___
+## Recommended Projects
+- [Global Terrorism: Exploratory Data Analysis and Dashboarding](https://github.com/MEDHAT-ALHADDAD/Global-Terrorism---Exploratory-Data-Analysis-and-Dashboarding) (2023): As a security/defense analyst, we will try to find hot zone of terrorism across the world.
+- [Case Study #2 - Pizza Runners](https://github.com/MEDHAT-ALHADDAD/Pizza_Runner):
+- [Twitter-Sentiment-Analysis](https://github.com/MEDHAT-ALHADDAD/Twitter-Sentiment-Analysis) (2020): Analyzed Twitter data to discover top hashtags and identify the most positive US states using AFINN lexicon
 ---
 ### SQL PROJECTS:
 - [Case Study #1 - Danny's Diner](https://github.com/MEDHAT-ALHADDAD/Dannys-Diner):
