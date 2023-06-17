@@ -5,6 +5,7 @@ ___
 ## Recommended Projects
 - [Global Terrorism: Exploratory Data Analysis and Dashboarding](https://github.com/MEDHAT-ALHADDAD/Global-Terrorism---Exploratory-Data-Analysis-and-Dashboarding) (2023): As a security/defense analyst, we will try to find hot zone of terrorism across the world.
 - [Case Study #2 - Pizza Runners](https://github.com/MEDHAT-ALHADDAD/Pizza_Runner):
+- [Super Store Retail: Exploratory Data Analysis and Dashboarding](https://github.com/MEDHAT-ALHADDAD/Super-Store-Retail-Exploratory-Data-Analysis-and-Dashboarding)(2023): As a business manager, we will try to find out the weak areas where we can work to make more profit. what all business problems we can derive by exploring the data.
 - [Twitter-Sentiment-Analysis](https://github.com/MEDHAT-ALHADDAD/Twitter-Sentiment-Analysis) (2020): Analyzed Twitter data to discover top hashtags and identify the most positive US states using AFINN lexicon
 ---
 ### SQL PROJECTS:
@@ -59,6 +60,7 @@ ___
 ---
 ### POWER BI PROJECTS:
 - [Global Terrorism: Exploratory Data Analysis and Dashboarding](https://github.com/MEDHAT-ALHADDAD/Global-Terrorism---Exploratory-Data-Analysis-and-Dashboarding) (2023): As a security/defense analyst, we will try to find hot zone of terrorism across the world.
+- [Super Store Retail: Exploratory Data Analysis and Dashboarding](https://github.com/MEDHAT-ALHADDAD/Super-Store-Retail-Exploratory-Data-Analysis-and-Dashboarding)(2023): As a business manager, we will try to find out the weak areas where we can work to make more profit. what all business problems we can derive by exploring the data.
 - [Data Science Job Market Insights]() (2023): Conducted in-depth analysis of the market using Power BI
 
 - [HR Attrition Metrics]() (2022): Created a PBI report for HR metrics insights and analyzed attrition causes
