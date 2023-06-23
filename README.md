@@ -3,7 +3,7 @@
 ![background_image](./screen.webp)
 ___
 ## Recommended Projects
-- [Global Terrorism: Exploratory Data Analysis and Dashboarding](https://github.com/MEDHAT-ALHADDAD/Global-Terrorism---Exploratory-Data-Analysis-and-Dashboarding) (2023): As a security/defense analyst, we will try to find hot zone of terrorism across the world.
+- [Global Terrorism: Exploratory Data Analysis and Dashboarding](https://github.com/MEDHAT-ALHADDAD/Global-Terrorism---Exploratory-Data-Analysis-and-Dashboarding) (2023): As a security/defense analyst, we will try to find the hot zone of terrorism across the world.
 - [Case Study #2 - Pizza Runners](https://github.com/MEDHAT-ALHADDAD/Pizza_Runner):
 - [Super Store Retail: Exploratory Data Analysis and Dashboarding](https://github.com/MEDHAT-ALHADDAD/Super-Store-Retail-Exploratory-Data-Analysis-and-Dashboarding)(2023): As a business manager, we will try to find out the weak areas where we can work to make more profit. what all business problems we can derive by exploring the data.
 - [Twitter-Sentiment-Analysis](https://github.com/MEDHAT-ALHADDAD/Twitter-Sentiment-Analysis) (2020): Analyzed Twitter data to discover top hashtags and identify the most positive US states using AFINN lexicon
@@ -25,7 +25,7 @@ ___
 
 ---
 ### PYTHON PROJECTS:
-- [Predicting-Credit-Card-Approvals](https://github.com/MEDHAT-ALHADDAD/Predicting-Credit-Card-Approvals)(2023):Achieved 98% Accuracy with LOGREG Classifier, MinMaxScaler 
+- [Predicting-Credit-Card-Approvals](https://github.com/MEDHAT-ALHADDAD/Predicting-Credit-Card-Approvals)(2023): Achieved 98% Accuracy with LOGREG Classifier, MinMaxScaler 
 
 - [Handwashing_effect_on_birthrate_featality](https://[]github.com/MEDHAT-ALHADDAD/Handwashing_effect_on_birthrate_featality):
 
@@ -49,7 +49,7 @@ ___
 
 - [Twitter-Sentiment-Analysis](https://github.com/MEDHAT-ALHADDAD/Twitter-Sentiment-Analysis) (2020): Analyzed Twitter data to discover top hashtags and identify the most positive US states using AFINN lexicon
 
-- [recommender.py](https://gist.github.com/MEDHAT-ALHADDAD/0d673b9bcc6695b2e4b5e3195c1bb63f) [Gist]: Music artists Recommendition module using NMF and Cosine Similarity
+- [recommender.py](https://gist.github.com/MEDHAT-ALHADDAD/0d673b9bcc6695b2e4b5e3195c1bb63f) [Gist]: Music artists Recommendation module using NMF and Cosine Similarity
 
 - [emp_state_60_steps_odds.py](https://gist.github.com/MEDHAT-ALHADDAD/113cbc1ed7bf04f2d23cbf03f470d3d4) [Gist]: What are the odds that you'll reach 60 steps high on the Empire State Building? (Hacker Stats!) XD:)
 
@@ -59,8 +59,9 @@ ___
 
 ---
 ### POWER BI PROJECTS:
-- [Global Terrorism: Exploratory Data Analysis and Dashboarding](https://github.com/MEDHAT-ALHADDAD/Global-Terrorism---Exploratory-Data-Analysis-and-Dashboarding) (2023): As a security/defense analyst, we will try to find hot zone of terrorism across the world.
+- [Global Terrorism: Exploratory Data Analysis and Dashboarding](https://github.com/MEDHAT-ALHADDAD/Global-Terrorism---Exploratory-Data-Analysis-and-Dashboarding) (2023): As a security/defense analyst, we will try to find a hot zone of terrorism across the world.
 - [Super Store Retail: Exploratory Data Analysis and Dashboarding](https://github.com/MEDHAT-ALHADDAD/Super-Store-Retail-Exploratory-Data-Analysis-and-Dashboarding)(2023): As a business manager, we will try to find out the weak areas where we can work to make more profit. what all business problems we can derive by exploring the data.
+- [PetMind-Repeat-Purchase-Study](https://github.com/MEDHAT-ALHADDAD/PetMind-Repeat-Purchase-Study) (2023): Analyzing the correlation between **Repeat Purchase** and **Sales** for a pet store, An Analysis for the Datacamp Data Analyst Associate certificate.
 - [Data Science Job Market Insights]() (2023): Conducted in-depth analysis of the market using Power BI
 
 - [HR Attrition Metrics]() (2022): Created a PBI report for HR metrics insights and analyzed attrition causes
